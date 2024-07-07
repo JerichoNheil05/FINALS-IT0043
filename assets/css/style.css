@@ -1,0 +1,13 @@
+body{
+    color: black;
+}
+
+.headingmain{
+    text-align: right;
+}
+
+.headingmain a{
+    color: black;
+    text-decoration: none;
+    gap: 5px;
+}
