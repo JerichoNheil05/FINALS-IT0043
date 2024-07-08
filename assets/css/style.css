@@ -22,30 +22,74 @@ body{
 
 }
 
+.div2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.photography {
+    margin: 0 auto;
+    max-width: 800px; /* Adjust as needed */
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.photo {
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.photo img {
+    height: 5rem;
+    width: auto;
+    border-radius: inherit;
+}
 
 
+.about{
+    border-radius: 5px;
+    width: 100%;
+    height: 20rem;
+    background-color: rgb(0, 0, 0);
+    opacity: 1px;
+    color: white;
+    text-align: center;
+}
 
+.about h3{
+    padding-top: 3rem;
+    font-size: 30px;
+    font-weight: 900;
+}
 
+.about p{
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
-
-.application {
+.firstapplication {
     display: inline-block;
     position: relative;
     width: 400px;
     min-width: 400px;
     height: 400px;
     border-radius: 30px;
-    overflow:hidden;
+    overflow: hidden;
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);
     margin: 30px;
-  }
-  
-  .application-profile-img {
-    height: 70%;
-  }
-  
-  .application-description-bk {
-    background-image: linear-gradient(0deg , #6b0f54, #fc466b);
+}
+
+.application-profile-img {
+    height: 80%;
+}
+
+.application-description-bk {
+    background-image: linear-gradient(0deg , #c7651e, #fc466b);
     border-radius: 30px;
     position: absolute;
     top: 55%;
@@ -53,13 +97,13 @@ body{
     height: 65%;
     width: 108%;
     transform: skew(19deg, -9deg);
-  }
-  
-  .application2 .application-description-bk {
-    background-image: linear-gradient(-20deg , #bb7413, #e7d25c)
-  }
-  
-  .application-logo {
+}
+
+.second .application-description-bk {
+    background-image: linear-gradient(-20deg , #bb7413, #e7d25c);
+}
+
+.application-logo {
     height: 80px;
     width: 80px;
     border-radius: 20px;
@@ -67,28 +111,103 @@ body{
     position: absolute;
     bottom: 30%;
     left: 30px;
-    overflow:hidden;
+    overflow: hidden;
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.7);
-  }
-  
-  .application-logo img {
+}
+
+.application-logo img {
     height: 100%;
-  }
-  
-  .application-description {
+}
+
+.application-description {
     position: absolute;
     color: #fff;
-    font-weight: 900;
-    left: 150px;
-    bottom: 26%;
-  }
-  
-  .application-name {
+    font-weight: 300;
+    left: 160px;
+    bottom: 20%;
+    right: 20px;
+}
+
+.application-date {
+    font-size: larger;
     position: absolute;
     color: #fff;
     left: 30px;
-    bottom: 10%;
-  }
+    bottom: 5%;
+    right: 5px;
+}
+
+.secondapplication {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    min-width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);
+    margin: 30px;
+}
+
+.application2-description-bk {
+    background-image: linear-gradient(0deg , #199ac6, #f550df);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(19deg, -9deg);
+}
+
+.thirdapplication {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    min-width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);
+    margin: 30px;
+}
+
+.application3-description-bk {
+    background-image: linear-gradient(0deg , #00b600, #22b9df);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(19deg, -9deg);
+}
 
 
+.fourthapplication {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    min-width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);
+    margin: 30px;
+}
+
+.application4-description-bk {
+    background-image: linear-gradient(0deg , #e72020, #ffb907);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(19deg, -9deg);
+}
+
+.footer{
+    text-align: center;
+}
 
