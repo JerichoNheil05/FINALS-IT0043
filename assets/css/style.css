@@ -210,4 +210,20 @@ body{
 .footer{
     text-align: center;
 }
+.photogallery {
+    margin-left: 15em;
+    margin-right: 15rem;
+    display: flexbox;
+    text-align: center;
+
+}
+
+.photogallery img{
+    width: 250px;
+    height: 280px;
+
+}
+
+
+
 
