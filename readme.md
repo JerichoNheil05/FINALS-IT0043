@@ -6,7 +6,7 @@
 <div align="center">
 <img src="assets/img/Anchor-Transparent-Image.png" alt="" class="headerimg">
   <h3 align="center">Personal Web Portfolio</h3>
-</d>
+</div>
 <div align="center">
   this project is to develop a visually appealing, responsive web page featuring a dynamic header with a navigation menu and a background with special styling effects that will showcase my skills in web development.
 </div>
@@ -115,6 +115,11 @@ WD-ProjectName
 └─ index.html
 └─ readme.md
 ```
+## Website and Project Repositories Link
+
+https://jerichonheil05.github.io/wd-finals/index.html
+
+https://github.com/JerichoNheil05/wd-finals.git
 
 ## Resources
 
@@ -130,4 +135,5 @@ WD-ProjectName
 | Create Simple Personal Portfolio Website with HTML & CSS | In this video, you will learn how to create a simple portfolio design with HTML and CSS.| https://youtu.be/Dtb3DdSvYRY?si=F9CkQDjg5lzU84fF|
 
 ## Wakatime
+
 https://wakatime.com/projects/FINALS%20IT0043?start=2024-07-09&end=2024-07-15
