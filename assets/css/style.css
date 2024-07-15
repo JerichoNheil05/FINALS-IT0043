@@ -41,12 +41,13 @@ body{
   }
 
 .headerimg {
-    padding-left: 3rem;
+    padding-left: 2rem;
     width: 50px;
     height: auto;
   }
 
 .div1{
+  font-size: 1.3rem;
     display: flex;
 }
 .content1 .content2 {
