@@ -63,7 +63,7 @@
 }
 
 .socialicon {
-  gap: 5rem;
+  gap: 2rem;
   margin-bottom: 5rem;
   justify-content: center;
   text-align: center;
@@ -71,7 +71,7 @@
   width: 100%;
 }
 .socialicon img{
-  width: 7rem;
+  width: 10rem;
   height: auto;
   display: flex;
 }
@@ -84,13 +84,14 @@
   
 
 .logo9 {
+    padding-top: 5rem;
     display: flex;
     justify-content: center;
     margin-bottom: 1rem;
   }
   
   .logo9 img {
-    width: 80px;
+    width: 50px;
     transition: transform 0.3s ease-in-out;
   }
   

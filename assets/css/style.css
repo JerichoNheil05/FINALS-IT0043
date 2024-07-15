@@ -312,11 +312,13 @@ body {
 
 .dark {
 	background: #f5f4f7;
+  margin-left: 5rem;
 }
 
 
 .light {
 	background: #f3f5f7;
+  margin-right: 5rem;
 }
 
 a, a:hover {
@@ -546,8 +548,8 @@ h1 {
 .footer9 {
   margin-top: 50px;
   border-radius: 3px;
-  background-color: #17a0f5;
-  color: #ffffff;
+  background-color: #fafafa;
+  color: #000000;
   text-align: center;
   padding: 2rem 0;
   animation: slideUp 1.5s ease-out;
@@ -570,7 +572,7 @@ h1 {
 }
 
 .logo9 img {
-  width: 80px;
+  width: 50px;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -594,7 +596,7 @@ h1 {
 }
 
 .footer-nav9 a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   font-weight: bold;
   transition: transform 0.3s ease-out;
