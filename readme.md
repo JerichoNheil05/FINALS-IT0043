@@ -127,3 +127,7 @@ WD-ProjectName
 | Responsive Personal Portfolio Website Using HTML And CSS | Learn How To Make Responsive Personal Portfolio Website Using HTML And CSS Step-by-Step | Simple Music Website | https://youtu.be/FHqVg7_Nj_g?si=qDzDJ-WoofT9vI6S |
 | Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript | In this tutorial video, you will learn how to create a responsive personal portfolio website using HTML, CSS and Javascript.| https://youtu.be/UqHILyzcULE?si=VwvbrBunZKcqEyfy |
 | Create Simple Personal Portfolio Website with HTML & CSS | In this video, you will learn how to create a simple portfolio design with HTML and CSS.| https://youtu.be/Dtb3DdSvYRY?si=F9CkQDjg5lzU84fF|
+
+## Wakatime
+
+https://wakatime.com/projects/FINALS%20IT0043?start=2024-07-09&end=2024-07-15
